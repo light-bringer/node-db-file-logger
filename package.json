@@ -1,0 +1,22 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "logging module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newsengine/logger.git"
+  },
+  "author": "Debapriya Das - yodebu@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newsengine/logger/issues"
+  },
+  "homepage": "https://github.com/newsengine/logger#readme",
+  "dependencies": {
+    "winston": "^2.3.1"
+  }
+}
