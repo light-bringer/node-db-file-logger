@@ -1,6 +1,9 @@
 const winston = require("winston")
     , extend = require('extend')
-    , dbURL = "http://localhost:27017/LoggerDb"
+    , dbURL = "mongodb://localhost:27017/LoggerDb"
+
+require('winston-mongodb').MongoDB
+
     
 var defaults = {
   transports: {
