@@ -1,5 +1,6 @@
 const winston = require("winston")
     , extend = require('extend')
+    , dbURL = "http://localhost:27017/LoggerDb"
     
 var defaults = {
   transports: {
@@ -20,6 +21,11 @@ var defaults = {
       json: false,
       handleExceptions: true,
       humanReadableUnhandledException: true   
+    }, 
+    MongoDB: {
+      db : dbURL,
+      collection: 'logs'
+    
     }
   }
 }

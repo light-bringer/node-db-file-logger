@@ -1,0 +1,2 @@
+require this module as a variable, and initialize the logger as logger.getLoggerObj
+
