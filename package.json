@@ -1,21 +1,21 @@
 {
-  "name": "logger",
+  "name": "node-db-file-logger",
   "version": "1.0.0",
-  "description": "logging module",
+  "description": "easy logging module wrapper over winston used to save logs to database and files",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/newsengine/logger.git"
+    "url": "git+https://github.com/light-bringer/node-db-file-logger.git"
   },
   "author": "Debapriya Das - yodebu@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/newsengine/logger/issues"
+    "url": "https://github.com/light-bringer/node-db-file-logger.git"
   },
-  "homepage": "https://github.com/newsengine/logger#readme",
+  "homepage": "https://github.com/light-bringer/node-db-file-logger.git",
   "dependencies": {
     "winston": "^2.3.1",
     "winston-mongodb": "^2.0.7"

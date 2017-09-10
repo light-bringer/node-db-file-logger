@@ -12,7 +12,7 @@ var defaults = {
       colorize: false,
       timestamp: true,
       json: true, 
-      filename: __base + "/log/production.log",
+      filename: __base + "/log/dev.log",
       maxsize: 5242880,
       maxFile: 10,
       logstash: false,
