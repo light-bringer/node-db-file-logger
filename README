@@ -6,3 +6,4 @@
 
 require this module as a variable, and initialize the logger as logger.getLoggerObj
 
+check github page for usage, check logger-usage directory
