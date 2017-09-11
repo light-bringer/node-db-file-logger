@@ -1,6 +1,6 @@
 {
   "name": "node-db-file-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "easy logging module wrapper over winston used to save logs to database and files",
   "main": "index.js",
   "scripts": {
