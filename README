@@ -6,4 +6,6 @@
 
 require this module as a variable, and initialize the logger as logger.getLoggerObj
 
-check github page for usage, check logger-usage directory
+check github page for usage https://github.com/light-bringer/node-db-file-logger , check logger-usage directory 
+
+it was just People can help me by contributing and developing it, adding more features and help growing it
