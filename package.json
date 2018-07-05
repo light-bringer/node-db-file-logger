@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/light-bringer/node-db-file-logger.git",
   "dependencies": {
+    "extend": "^3.0.1",
     "winston": "^2.3.1",
     "winston-mongodb": "^2.0.7"
   }
